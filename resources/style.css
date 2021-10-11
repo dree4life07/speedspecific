@@ -93,12 +93,20 @@ a.anchor {
   background-color: aquamarine;
 }*/
 
-.banner-logo {
+.banner-logo-container {
   width: 66%;
   height: 60vh;
+  background-color: rgba(255, 228, 196, 0.582);
+  position: absolute;
+  align-items: center;
+}
+
+.banner-logo {
+  width: 100%;
+  height: auto;
   position: absolute;
   z-index: 10;
-  /*background-color: bisque;*/
+  align-items: center;
 }
 
 .banner-logo img {
