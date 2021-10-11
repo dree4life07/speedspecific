@@ -101,6 +101,11 @@ a.anchor {
   /*background-color: bisque;*/
 }
 
+.banner-logo img {
+  width: 100%;
+  height: auto;
+}
+
 .banner-img {
   background-image: url('images/banner_background.png');
   background-size: 150%;
