@@ -105,7 +105,7 @@ a.anchor {
   width: 100%;
   max-width: 250px;
   height: auto;
-  /*background-color: cadetblue;*/
+  background-color: rgba(95, 158, 160, 0.452);
 }
 
 .banner-img {
