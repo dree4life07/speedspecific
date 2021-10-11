@@ -83,20 +83,11 @@ a.anchor {
 .banner-img-container {
   width: 100%;
   height: 100%;
-  /*background-color: blueviolet;*/
 }
-
-/*.banner-spacer {
-  width: 100%;
-  height: 8vh;
-  min-height: 80px;
-  background-color: aquamarine;
-}*/
 
 .banner-logo-container {
   width: 66%;
   height: 60vh;
-  background-color: rgba(255, 228, 196, 0.582);
   position: absolute;
   align-items: center;
 }
@@ -113,7 +104,6 @@ a.anchor {
   width: 100%;
   max-width: 250px;
   height: auto;
-  background-color: rgba(95, 158, 160, 0.452);
 }
 
 .banner-img {
@@ -131,7 +121,6 @@ a.anchor {
 .banner-img img {
   width: auto;
   height: 66%;
-  /*margin-top: 15%;*/
   z-index: 1;
 }
 /************************************************      END BANNER */
